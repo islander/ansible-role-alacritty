@@ -1,5 +1,6 @@
 Alacritty
 =========
+[![Build Status](https://travis-ci.org/islander/ansible-role-alacritty.svg?branch=master)](https://travis-ci.org/islander/ansible-role-alacritty)
 
 A role to install [alacritty][1] terminal emulator.
 
