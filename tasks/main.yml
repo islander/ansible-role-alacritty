@@ -81,7 +81,7 @@
 - name: Update mandb
   become: yes
   become_user: "root"
-  shell: mandb
+  command: mandb
   when: gunzip_alacritty_man is changed
 
 - name: Make alacritty config directory
