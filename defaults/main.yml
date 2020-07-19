@@ -1,0 +1,3 @@
+---
+# defaults file for alacritty
+alacritty_release_url: https://api.github.com/repos/alacritty/alacritty/releases/latest

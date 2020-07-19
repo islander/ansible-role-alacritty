@@ -1,0 +1,7 @@
+---
+- hosts: all
+  tasks:
+    - name: Make sure required packages are installed
+      package:
+        name: [ 'man-db' ]
+        state: present
